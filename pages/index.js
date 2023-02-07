@@ -3,7 +3,7 @@ import { Inter } from '@next/font/google'
 import styles from '../styles/Home.module.css'
 import Bread from './breadcrumb'
 import Landing from './principal'
-import Link from 'next/Link'
+
 
 const inter = Inter({ subsets: ['latin'] })
 
